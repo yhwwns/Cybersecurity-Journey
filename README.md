@@ -1,7 +1,7 @@
 # CyS-Journey
 Professional statement
 
-I am jefferson joojo yankson. I am currently studying Bsc Information Technology in Ghana majoring in cybersecurity. I am passionate about protecting people and data by ensuring confidentiality, integrity and availability of information to authorized users while adhering to compliance and regulatory laws.
+I am jefferson joojo yankson. I am currently studying Bsc Information Technology in Ghana majoring in computer security. I am passionate about protecting people and data by ensuring confidentiality, integrity and availability of information to authorized users while adhering to compliance and regulatory laws.
 
 My core strengths are; Time management. Problem solving skills. Programming.
 
